@@ -1,2 +1,3 @@
-# hello-world
-Abhishek Mishra first-repository
+# maven-project
+
+Simple Maven Project
